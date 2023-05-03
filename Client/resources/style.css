@@ -1,0 +1,33 @@
+.vb {
+    -fx-background-color: #152f42;
+}
+
+.l {
+    -fx-text-fill: #529295;
+    -fx-font-size: 20px;
+    -fx-font-family: Arial;
+}
+
+.tf {
+    -fx-background-color: #152f42;
+    -fx-border-color: #529295;
+    -fx-font-family: Arial;
+    -fx-font-size: 15;
+    -fx-text-fill: #529295;
+}
+
+.b {
+    -fx-background-color: #152f42;
+    -fx-text-fill: #529295;
+    -fx-font-size: 15px;
+    -fx-font-family: Arial;
+    -fx-pref-width: 60px;
+    -fx-pref-height: 30px;
+    -fx-border-color: #529295;
+    -fx-border-width: 2;
+}
+
+.b:hover {
+    -fx-background-color: #529295;
+    -fx-text-fill: #152f42;
+}
